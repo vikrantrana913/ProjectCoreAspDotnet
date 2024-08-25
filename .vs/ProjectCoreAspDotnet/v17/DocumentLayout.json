@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikra\\source\\repos\\ProjectCoreAspDotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7E7D-DA24-41E8-8497-6D440C2C2345}|ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj|c:\\users\\vikra\\source\\repos\\projectcoreaspdotnet\\projectcoreaspdotnet\\admin\\models\\studentdbmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C7E7D-DA24-41E8-8497-6D440C2C2345}|ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj|solutionrelative:projectcoreaspdotnet\\admin\\models\\studentdbmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDbModels.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\source\\repos\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
+              "RelativeDocumentMoniker": "ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
+              "ToolTip": "C:\\Users\\vikra\\source\\repos\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
+              "RelativeToolTip": "ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:48:23.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
