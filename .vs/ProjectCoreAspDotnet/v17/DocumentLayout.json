@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vikra\\source\\repos\\ProjectCoreAspDotnet\\",
+  "WorkspaceRootPath": "C:\\Users\\vikra\\source\\repos\\RepositeryCoreProject\\RepositerCoreProject\\ProjectCoreAspDotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE6C7E7D-DA24-41E8-8497-6D440C2C2345}|ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj|c:\\users\\vikra\\source\\repos\\projectcoreaspdotnet\\projectcoreaspdotnet\\admin\\models\\studentdbmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE6C7E7D-DA24-41E8-8497-6D440C2C2345}|ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj|c:\\users\\vikra\\source\\repos\\repositerycoreproject\\repositercoreproject\\projectcoreaspdotnet\\projectcoreaspdotnet\\admin\\models\\studentdbmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE6C7E7D-DA24-41E8-8497-6D440C2C2345}|ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj|solutionrelative:projectcoreaspdotnet\\admin\\models\\studentdbmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StudentDbModels.cs",
-              "DocumentMoniker": "C:\\Users\\vikra\\source\\repos\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\source\\repos\\RepositeryCoreProject\\RepositerCoreProject\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
               "RelativeDocumentMoniker": "ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
-              "ToolTip": "C:\\Users\\vikra\\source\\repos\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
+              "ToolTip": "C:\\Users\\vikra\\source\\repos\\RepositeryCoreProject\\RepositerCoreProject\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
               "RelativeToolTip": "ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T21:48:23.913Z",
               "EditorCaption": ""

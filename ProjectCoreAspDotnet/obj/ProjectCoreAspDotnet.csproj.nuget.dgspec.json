@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikra\\source\\repos\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj": {}
+    "C:\\Users\\vikra\\source\\repos\\RepositeryCoreProject\\RepositerCoreProject\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikra\\source\\repos\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj": {
+    "C:\\Users\\vikra\\source\\repos\\RepositeryCoreProject\\RepositerCoreProject\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikra\\source\\repos\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj",
+        "projectUniqueName": "C:\\Users\\vikra\\source\\repos\\RepositeryCoreProject\\RepositerCoreProject\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj",
         "projectName": "ProjectCoreAspDotnet",
-        "projectPath": "C:\\Users\\vikra\\source\\repos\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj",
+        "projectPath": "C:\\Users\\vikra\\source\\repos\\RepositeryCoreProject\\RepositerCoreProject\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj",
         "packagesPath": "C:\\Users\\vikra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikra\\source\\repos\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\obj\\",
+        "outputPath": "C:\\Users\\vikra\\source\\repos\\RepositeryCoreProject\\RepositerCoreProject\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vikra\\AppData\\Roaming\\NuGet\\NuGet.Config",

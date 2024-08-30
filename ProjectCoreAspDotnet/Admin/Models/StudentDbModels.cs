@@ -9,7 +9,7 @@ namespace ProjectCoreAspDotnet.Admin.Models
         [Display(Name ="Fullname")]
         [Required(ErrorMessage ="The field is required.")]
         public int Fullname { get; set; }
-
+          
         [Display(Name ="Date of Birth")]
         [Required(ErrorMessage ="The field is required.")]
         public DateTime Dob { get; set; }
@@ -29,6 +29,8 @@ namespace ProjectCoreAspDotnet.Admin.Models
         [Display(Name ="Email")]
         [Required(ErrorMessage ="The field is required.")]
         public string Email { get; set; }
+
+
 
     }
 }
