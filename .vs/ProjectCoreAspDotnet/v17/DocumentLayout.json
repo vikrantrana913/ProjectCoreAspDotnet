@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vikra\\source\\repos\\RepositeryCoreProject\\RepositerCoreProject\\ProjectCoreAspDotnet\\",
+  "WorkspaceRootPath": "E:\\ProjectCoreAspDotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE6C7E7D-DA24-41E8-8497-6D440C2C2345}|ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj|c:\\users\\vikra\\source\\repos\\repositerycoreproject\\repositercoreproject\\projectcoreaspdotnet\\projectcoreaspdotnet\\admin\\models\\studentdbmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE6C7E7D-DA24-41E8-8497-6D440C2C2345}|ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj|e:\\projectcoreaspdotnet\\projectcoreaspdotnet\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C7E7D-DA24-41E8-8497-6D440C2C2345}|ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj|solutionrelative:projectcoreaspdotnet\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7E7D-DA24-41E8-8497-6D440C2C2345}|ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj|e:\\projectcoreaspdotnet\\projectcoreaspdotnet\\admin\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C7E7D-DA24-41E8-8497-6D440C2C2345}|ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj|solutionrelative:projectcoreaspdotnet\\admin\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7E7D-DA24-41E8-8497-6D440C2C2345}|ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj|e:\\projectcoreaspdotnet\\projectcoreaspdotnet\\admin\\models\\studentdbmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE6C7E7D-DA24-41E8-8497-6D440C2C2345}|ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj|solutionrelative:projectcoreaspdotnet\\admin\\models\\studentdbmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7E7D-DA24-41E8-8497-6D440C2C2345}|ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj|e:\\projectcoreaspdotnet\\projectcoreaspdotnet\\superadmin\\models\\admindbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C7E7D-DA24-41E8-8497-6D440C2C2345}|ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj|solutionrelative:projectcoreaspdotnet\\superadmin\\models\\admindbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,12 +55,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "E:\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "ProjectCoreAspDotnet\\ConnectionString.cs",
+              "ToolTip": "E:\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\ConnectionString.cs",
+              "RelativeToolTip": "ProjectCoreAspDotnet\\ConnectionString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T23:53:53.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "E:\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\Admin\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectCoreAspDotnet\\Admin\\Models\\StudentDbContext.cs",
+              "ToolTip": "E:\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\Admin\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "ProjectCoreAspDotnet\\Admin\\Models\\StudentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T23:47:45.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDBModel.cs",
+              "DocumentMoniker": "E:\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\SuperAdmin\\Models\\AdminDBModel.cs",
+              "RelativeDocumentMoniker": "ProjectCoreAspDotnet\\SuperAdmin\\Models\\AdminDBModel.cs",
+              "ToolTip": "E:\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\SuperAdmin\\Models\\AdminDBModel.cs",
+              "RelativeToolTip": "ProjectCoreAspDotnet\\SuperAdmin\\Models\\AdminDBModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T23:43:35.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StudentDbModels.cs",
-              "DocumentMoniker": "C:\\Users\\vikra\\source\\repos\\RepositeryCoreProject\\RepositerCoreProject\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
+              "DocumentMoniker": "E:\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
               "RelativeDocumentMoniker": "ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
-              "ToolTip": "C:\\Users\\vikra\\source\\repos\\RepositeryCoreProject\\RepositerCoreProject\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
+              "ToolTip": "E:\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
               "RelativeToolTip": "ProjectCoreAspDotnet\\Admin\\Models\\StudentDbModels.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAYAAABgZmZmZmYkwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T21:48:23.913Z",
               "EditorCaption": ""

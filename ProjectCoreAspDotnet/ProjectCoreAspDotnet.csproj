@@ -9,7 +9,8 @@
   <ItemGroup>
     <Folder Include="Admin\Controllers\" />
     <Folder Include="Admin\Views\" />
-    <Folder Include="SuperAdmin\" />
+    <Folder Include="SuperAdmin\Controllers\" />
+    <Folder Include="SuperAdmin\Views\" />
   </ItemGroup>
 
 </Project>

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vikra\\source\\repos\\RepositeryCoreProject\\RepositerCoreProject\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj",
+      "projectUniqueName": "E:\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj",
       "projectName": "ProjectCoreAspDotnet",
-      "projectPath": "C:\\Users\\vikra\\source\\repos\\RepositeryCoreProject\\RepositerCoreProject\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj",
+      "projectPath": "E:\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet.csproj",
       "packagesPath": "C:\\Users\\vikra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vikra\\source\\repos\\RepositeryCoreProject\\RepositerCoreProject\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\obj\\",
+      "outputPath": "E:\\ProjectCoreAspDotnet\\ProjectCoreAspDotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vikra\\AppData\\Roaming\\NuGet\\NuGet.Config",
